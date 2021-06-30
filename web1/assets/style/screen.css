@@ -1,7 +1,11 @@
 body{
   font-family: Lucida Console, Lucida Sans, Arial, Verdana, Tahoma, Serif;
+  background-image: url("webpage-background.jpg");
+  background-repeat: no-repeat;
+  
 }
 
+ 
 .topnav {
   background-color: #000000;
   overflow: hidden;
